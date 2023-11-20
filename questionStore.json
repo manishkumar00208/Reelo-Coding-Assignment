@@ -1,0 +1,24 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "How does photosynthesis occur?",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the equation x^2 + 4x + 4 = 0",
+    "subject": "Mathematics",
+    "topic": "Quadratic Equations",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  // Add more questions as needed
+]
