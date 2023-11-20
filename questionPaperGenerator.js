@@ -36,7 +36,7 @@ function generateQuestionPaper(totalMarks, difficultyDistribution) {
   return questionPaper;
 }
 
-// Example usage
+// Sample Assumption Example
 const totalMarks = 100;
 const difficultyDistribution = {
   easy: 20,
